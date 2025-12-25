@@ -1,0 +1,9 @@
+CREATE TABLE denumirea (
+    no INTEGER,
+    data_anuntului DATE,
+    idno TEXT,
+    denumirea TEXT,
+    adresa TEXT,
+    din TEXT,
+    in_ TEXT
+);
