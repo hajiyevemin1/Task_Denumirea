@@ -1,0 +1,12 @@
+COPY denumirea(
+    no,
+    data_anuntului,
+    idno,
+    denumirea,
+    adresa,
+    din,
+    in_
+)
+FROM 'C:\Project\Task\Task.csv'
+DELIMITER ','
+CSV HEADER;
