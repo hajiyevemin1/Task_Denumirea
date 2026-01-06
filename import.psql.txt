@@ -7,7 +7,8 @@ COPY denumirea(
     din,
     in_
 )
-FROM 'C:\Project\Task\task_complete.csv'
+FROM 'C:\path\to\file.csv'
 DELIMITER ','
 CSV HEADER;
+
 
