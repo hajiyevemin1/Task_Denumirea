@@ -1,6 +1,6 @@
 import fitz
 
-doc = fitz.open("Denumirea2.pdf")
+doc = fitz.open("Denumirea.pdf")
 page = doc[0]
 
 x_lines = set()
